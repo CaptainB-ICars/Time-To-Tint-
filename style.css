@@ -1,0 +1,65 @@
+body
+{
+background-image:url("1.jpg") ;
+background-repeat: no-repeat;
+background-size: cover;
+text-align:center ;
+}
+
+h3
+{
+  font-size: 40px !important;
+  background-color: white;
+  color: black;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  width: 250px;
+  text-align: center;
+  box-shadow: 8px 8px 8px white;
+  text-align:center ;
+}
+
+canvas {
+    border:1px solid black;
+}
+
+#take_snapshot
+{
+    background-color: white;
+    color: black;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    width: 250px;
+    text-align: center;
+    box-shadow: 8px 8px 8px white;
+    text-align:center ; 
+}
+
+#download_snapshot
+{
+    background-color: white;
+  color: black;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  width: 250px;
+  text-align: center;
+  box-shadow: 8px 8px 8px white;
+  text-align:center ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
